@@ -6,3 +6,11 @@ __pycache__
 *.py[cod]
 db.sqlite3
 staticfiles
+.git
+.env
+.venv
+ll_env
+__pycache__
+*.py[cod]
+db.sqlite3
+staticfiles
