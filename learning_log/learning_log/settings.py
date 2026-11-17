@@ -130,3 +130,7 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 LOGIN_URL = '/users/login/'
+
+#удалить потом если не заработает
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+LOWED_HOSTS = ['*']
